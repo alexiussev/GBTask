@@ -69,7 +69,7 @@ int[,,] RandomNumberInThreeArrayNotRepetition(int nROWS, int mCOLUMS, int zRANKS
     }
     else
     {
-        WriteLine("РАзмер массива не позволяетя заполнить неповтояющимися числами ввиду малого диапазона случайных чисел");
+        WriteLine("Размер массива не позволяетя заполнить неповтояющимися числами ввиду малого диапазона случайных чисел");
         return array;
     }
 }
